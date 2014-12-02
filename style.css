@@ -1,0 +1,8 @@
+.box{margin:15opx auto}
+.box img{float:left;transition:6s}
+.rubel:hover img{transform:rotate(1000deg);}
+.rubel1:hover img{transform:scale(2.5)}
+.rubel2:hover img{transform:skew(30deg)}
+.rubel3:hover img{transform:translate(400px)}
+.rubel4:hover img{transform:translateY(400px)}
+.rubel5:hover img{border:50px solid yellow}
